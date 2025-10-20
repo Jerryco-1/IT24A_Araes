@@ -1,8 +1,22 @@
 [{
     "name":"ICS Laboratory 1",
-    "title":"ICS Lab 1",
-    "description": "Computer Lab",
-    "img":"https://tse2.mm.bing.net/th/id/OIP.WvfEmEeYou8IERC_G0Q6jgAAAA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "title":"hello ",
+    "description": "chuy",
+    "img":"https://i.pinimg.com/originals/89/1e/f3/891ef3443d67d3cd84c0995a65bcc80e.jpg",
         "lat":8.360, 
         "lng": 124.868
-}]
+},
+{
+    "name": "Northern Bukidnon State College Grounds",
+    "title":"sige na",
+    "description": "loh",
+    "img": "https://www.gifcen.com/wp-content/uploads/2021/03/memes-gif-2.gif",
+    "lat":8.3606, 
+    "lng":124.8683
+
+
+}
+
+
+
+]
